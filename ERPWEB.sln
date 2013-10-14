@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERPWEB", "ERPWEB\ERPWEB.csproj", "{C2F5159B-8D17-49B6-AEB1-7B5CF0B94F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERPWEB.Tests", "ERPWEB.Tests\ERPWEB.Tests.csproj", "{53B1E390-F408-481D-A0BB-4DEF0B6F0D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F5159B-8D17-49B6-AEB1-7B5CF0B94F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F5159B-8D17-49B6-AEB1-7B5CF0B94F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F5159B-8D17-49B6-AEB1-7B5CF0B94F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F5159B-8D17-49B6-AEB1-7B5CF0B94F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B1E390-F408-481D-A0BB-4DEF0B6F0D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B1E390-F408-481D-A0BB-4DEF0B6F0D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B1E390-F408-481D-A0BB-4DEF0B6F0D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B1E390-F408-481D-A0BB-4DEF0B6F0D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
