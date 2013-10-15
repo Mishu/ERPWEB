@@ -24,13 +24,7 @@ namespace ERPWEB
                         "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrapjs").Include(
-                        "~/Scripts/bootstrap.js"));
-
-            bundles.Add(new ScriptBundle("~/bundles/angularJS.Base").Include(
-                        "~/Scripts/angular.js"));
-
-            bundles.Add(new ScriptBundle("~/bundles/angularJS.All").Include(
-                     "~/Scripts/angular*"));
+                        "~/Scripts/bootstrap.js"));            
 
             bundles.Add(new StyleBundle("~/Content/bootstrapcss").Include(
                         "~/Content/bootstrap.css"));
